@@ -1,1 +1,2 @@
 Hello this file is added directly in the main branch.
+Hello, this line is added from feature-1 branch using vscode.
