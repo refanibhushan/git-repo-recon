@@ -1,0 +1,1 @@
+Hello this file named file_feature_2.txt is created in the feature-1 branch from vscode.
